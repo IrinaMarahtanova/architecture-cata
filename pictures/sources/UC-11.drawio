@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T18:00:27.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="93xjKkpPJ4_IyygFMouo" version="24.5.3" type="device">
+<mxfile host="app.diagrams.net" modified="2024-06-15T15:05:58.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="lnfcOyffVWp3J104JXEW" version="24.4.13" type="device">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,13 +79,13 @@
             <mxPoint x="750" y="210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-1" value="отправить голос в email сообщении" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-1" value="отправить голос в email сообщении" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="320" as="sourcePoint" />
             <mxPoint x="390" y="320.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-2" value="голос сохранен" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-2" value="голос сохранен" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="410" as="targetPoint" />
             <Array as="points">
@@ -94,7 +94,7 @@
             <mxPoint x="390" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-4" value="перенаправление запроса&amp;nbsp;&lt;div&gt;на голосование&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-4" value="перенаправление запроса&amp;nbsp;&lt;div&gt;на голосование&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="320" as="sourcePoint" />
             <Array as="points">
@@ -104,14 +104,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-5" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-5" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="410" as="targetPoint" />
             <Array as="points" />
             <mxPoint x="580" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-6" value="преобразовать голос&amp;nbsp;&lt;div&gt;в email сообщении&amp;nbsp;&lt;/div&gt;&lt;div&gt;в сообщение&lt;/div&gt;&lt;div&gt;на сохранение&amp;nbsp;&lt;/div&gt;&lt;div&gt;голоса в системе&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-6" value="преобразовать голос&amp;nbsp;&lt;div&gt;в email сообщении&amp;nbsp;&lt;/div&gt;&lt;div&gt;в сообщение&lt;/div&gt;&lt;div&gt;на сохранение&amp;nbsp;&lt;/div&gt;&lt;div&gt;голоса в системе&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="320" as="sourcePoint" />
             <Array as="points">
@@ -121,7 +121,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-7" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-7" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="410" as="targetPoint" />
             <Array as="points">
@@ -130,13 +130,13 @@
             <mxPoint x="760" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-8" value="Брокер сообщений" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-8" value="Брокер сообщений" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="870" y="60" width="140" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H6ERIf2kMc6koZy2Y6LX-8">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H6ERIf2kMc6koZy2Y6LX-8" vertex="1">
           <mxGeometry x="65" y="100" width="10" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-10" value="отправить сообщение&amp;nbsp;&lt;div&gt;на сохранение&amp;nbsp;&lt;div&gt;голоса в системе&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-10" value="отправить сообщение&amp;nbsp;&lt;div&gt;на сохранение&amp;nbsp;&lt;div&gt;голоса в системе&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="160" as="sourcePoint" />
             <Array as="points">
@@ -146,7 +146,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-11" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-11" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="210" as="targetPoint" />
             <Array as="points">
@@ -155,7 +155,7 @@
             <mxPoint x="930" y="210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-13" value="отправить сообщение&amp;nbsp;&lt;div&gt;на сохранение&amp;nbsp;&lt;div&gt;голоса в системе&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-13" value="отправить сообщение&amp;nbsp;&lt;div&gt;на сохранение&amp;nbsp;&lt;div&gt;голоса в системе&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="320" as="sourcePoint" />
             <Array as="points">
@@ -165,7 +165,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-14" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-14" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="410" as="targetPoint" />
             <Array as="points">
@@ -174,13 +174,13 @@
             <mxPoint x="930" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-15" value="Система голосований" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-15" value="Система голосований" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="1060" y="60" width="140" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="H6ERIf2kMc6koZy2Y6LX-15">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="H6ERIf2kMc6koZy2Y6LX-15" vertex="1">
           <mxGeometry x="65" y="100" width="10" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-17" value="вычитать сообщение&lt;div&gt;&amp;nbsp;из топика&amp;nbsp;&lt;div&gt;и сохранить&amp;nbsp;&lt;/div&gt;&lt;div&gt;голос в системе&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-17" value="вычитать сообщение&lt;div&gt;&amp;nbsp;из топика&amp;nbsp;&lt;div&gt;и сохранить&amp;nbsp;&lt;/div&gt;&lt;div&gt;голос в системе&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endFill=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1125" y="200" as="sourcePoint" />
             <Array as="points">
@@ -190,13 +190,38 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H6ERIf2kMc6koZy2Y6LX-18" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="H6ERIf2kMc6koZy2Y6LX-9">
+        <mxCell id="H6ERIf2kMc6koZy2Y6LX-18" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" parent="1" source="H6ERIf2kMc6koZy2Y6LX-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="410" as="targetPoint" />
             <Array as="points">
               <mxPoint x="950" y="410" />
             </Array>
             <mxPoint x="940" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8VlRaFvS1vVK7OlM7MD-1" value="Система расписаний" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1240" y="60" width="140" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="v8VlRaFvS1vVK7OlM7MD-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="v8VlRaFvS1vVK7OlM7MD-1">
+          <mxGeometry x="65" y="100" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="v8VlRaFvS1vVK7OlM7MD-3" value="вычитать id расписания&lt;div&gt;и id лекции&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1225" y="160" />
+            </Array>
+            <mxPoint x="1300" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v8VlRaFvS1vVK7OlM7MD-4" value="возврат" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1225" y="410" />
+            </Array>
+            <mxPoint x="1300" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
