@@ -27,7 +27,7 @@
 
 ### Кейс:
 
-![Case](./pictures/Case.png)
+![Case](pictures/Case.png)
 
 ### Стейкхолдеры
 
@@ -84,7 +84,7 @@
 5. система не должна терять нотификации
 
 ### Бизнес контекст
-![Case](./pictures/Context.png)  
+![Case](pictures/Context.png)  
 
 ### Критичные сценарии
 1. просмотр расписания конференции и мест проведения всеми участниками системы
@@ -153,7 +153,7 @@
 ## Функциональная декомпозиция
 ### Решение 1
 ### Предметная область и функциональная декомпозиция
-![Case](./pictures/FunctionalDecomposition1.png)  
+![Case](pictures/FunctionalDecomposition1.png)  
 
 ### Оценка стоимости изменений
 #### Сценарий 1:
@@ -194,7 +194,7 @@
 
 ### Решение 2
 ### Предметная область и функциональная декомпозиция
-![Case](./pictures/FunctionalDecomposition2.png)
+![Case](pictures/FunctionalDecomposition2.png)
 
 ### Оценка стоимости изменений
 #### Сценарий 1:
@@ -243,7 +243,7 @@
 
 ## Взаимодействие сервисов
 ### Сценарий просмотра расписания конференции и мест ее проведения
-![Case](./pictures/SequenceDiagram.png)
+![Case](pictures/SequenceDiagram.png)
 
 ### Оценка атрибутов качества для сценария просмотра расписания конференции и мест ее проведения
 #### Производительность системы 
@@ -286,10 +286,10 @@
    * имена спикеров
 
 ## Диаграмма контейнеров приложения на основе выбранной модели функциональной декомпозиции
-![Case](./pictures/ContainerDiagram.png)
+![Case](pictures/ContainerDiagram.png)
 
 ## Декомпозиция слоя данных
-![Case](./pictures/DBDiagram.png)
+![Case](pictures/DBDiagram.png)
 
 ## Деплоймент диаграмма
-![Case](./pictures/DeploymentDiagram.png)   
+![Case](pictures/DeploymentDiagram.png)   
